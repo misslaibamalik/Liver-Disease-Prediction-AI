@@ -1,5 +1,8 @@
 # Early Liver Disease Prediction Using Machine Learning by Laiba Malik
 
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-GPL-green)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ## Motivation
 In January 2023, my father passed away from liver cancer because Pakistan lacked affordable early diagnostic tools and timely liver transplant facilities. This project is my first practical step toward building low-cost, AI-powered screening systems that can run on basic clinic computers in developing countries exactly what I want to advance during my Master's in AI under the Global Korea Scholarship 2026.
 
