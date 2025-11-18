@@ -25,7 +25,12 @@ SHAP explanations show which blood markers matter most → doctors can understan
 ## Technologies Used
 Python, Pandas, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn
 
+## Image
+
+![alt text](image.png)
+
 ## How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebook/Liver_Disease_Prediction.ipynb
+
